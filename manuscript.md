@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Ruihao (Robert) Zhang
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-04'
@@ -39,21 +38,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Ruihao (Robert) Zhang" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="Department of Civil Engineering, University of Illinois, Champaign-Urbana" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@banyekalaok" />
 
   <link rel="canonical" href="https://banyekalaok.github.io/cee498report/" />
 
@@ -67,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://banyekalaok.github.io/cee498report/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/d70fe4c87a8cb32b9c291505e7940dfee949729e/" />
+  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/" />
 
-  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/d70fe4c87a8cb32b9c291505e7940dfee949729e/" />
+  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/d70fe4c87a8cb32b9c291505e7940dfee949729e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://banyekalaok.github.io/cee498report/v/d70fe4c87a8cb32b9c291505e7940dfee949729e/))
+([permalink](https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/))
 was automatically generated
-from [banyekalaok/cee498report@d70fe4c](https://github.com/banyekalaok/cee498report/tree/d70fe4c87a8cb32b9c291505e7940dfee949729e)
+from [banyekalaok/cee498report@27e1243](https://github.com/banyekalaok/cee498report/tree/27e12432a33ca4e90d9f5f44c227f55cc99728cb)
 on December 4, 2020.
 </em></small>
 
@@ -113,25 +104,15 @@ on December 4, 2020.
 
 
 
-+ **John Doe**<br>
++ **Ruihao (Robert) Zhang**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [banyekalaok](https://github.com/banyekalaok)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [banyekalaok](https://twitter.com/banyekalaok)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Civil Engineering, University of Illinois, Champaign-Urbana
   </small>
 
 
