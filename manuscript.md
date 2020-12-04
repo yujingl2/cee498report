@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://banyekalaok.github.io/cee498report/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/" />
+  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/a4c8b51c762c45aaa7f6c68a8ee166417cafb47b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/" />
+  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/a4c8b51c762c45aaa7f6c68a8ee166417cafb47b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/a4c8b51c762c45aaa7f6c68a8ee166417cafb47b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://banyekalaok.github.io/cee498report/v/27e12432a33ca4e90d9f5f44c227f55cc99728cb/))
+([permalink](https://banyekalaok.github.io/cee498report/v/a4c8b51c762c45aaa7f6c68a8ee166417cafb47b/))
 was automatically generated
-from [banyekalaok/cee498report@27e1243](https://github.com/banyekalaok/cee498report/tree/27e12432a33ca4e90d9f5f44c227f55cc99728cb)
+from [banyekalaok/cee498report@a4c8b51](https://github.com/banyekalaok/cee498report/tree/a4c8b51c762c45aaa7f6c68a8ee166417cafb47b)
 on December 4, 2020.
 </em></small>
 
@@ -117,7 +117,7 @@ on December 4, 2020.
 
 
 
-## Abstract {.page_break_before}
+## Abstract 
 
 
 
