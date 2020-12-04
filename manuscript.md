@@ -1,6 +1,6 @@
 ---
 author-meta:
-- Ruihao (Robert) Zhang
+- abc
 bibliography:
 - content/manual-references.json
 date-meta: '2020-12-04'
@@ -38,13 +38,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Ruihao (Robert) Zhang" />
+  <meta name="citation_author" content="abc" />
 
   <meta name="citation_author_institution" content="Department of Civil Engineering, University of Illinois, Champaign-Urbana" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@banyekalaok" />
+  <meta name="twitter:creator" content="@abc" />
 
   <link rel="canonical" href="https://banyekalaok.github.io/cee498report/" />
 
@@ -58,11 +58,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://banyekalaok.github.io/cee498report/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/9be45729fc66207a8c8104f6866fefdc3462821a/" />
+  <link rel="alternate" type="text/html" href="https://banyekalaok.github.io/cee498report/v/1fa9979a0165ad8bd3682faa8717ed0d2162b875/" />
 
-  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/9be45729fc66207a8c8104f6866fefdc3462821a/" />
+  <meta name="manubot_html_url_versioned" content="https://banyekalaok.github.io/cee498report/v/1fa9979a0165ad8bd3682faa8717ed0d2162b875/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/9be45729fc66207a8c8104f6866fefdc3462821a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://banyekalaok.github.io/cee498report/v/1fa9979a0165ad8bd3682faa8717ed0d2162b875/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -94,9 +94,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://banyekalaok.github.io/cee498report/v/9be45729fc66207a8c8104f6866fefdc3462821a/))
+([permalink](https://banyekalaok.github.io/cee498report/v/1fa9979a0165ad8bd3682faa8717ed0d2162b875/))
 was automatically generated
-from [banyekalaok/cee498report@9be4572](https://github.com/banyekalaok/cee498report/tree/9be45729fc66207a8c8104f6866fefdc3462821a)
+from [banyekalaok/cee498report@1fa9979](https://github.com/banyekalaok/cee498report/tree/1fa9979a0165ad8bd3682faa8717ed0d2162b875)
 on December 4, 2020.
 </em></small>
 
@@ -104,13 +104,13 @@ on December 4, 2020.
 
 
 
-+ **Ruihao (Robert) Zhang**<br>
++ **abc**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [banyekalaok](https://github.com/banyekalaok)
+    [abc](https://github.com/abc)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [banyekalaok](https://twitter.com/banyekalaok)<br>
+    [abc](https://twitter.com/abc)<br>
   <small>
      Department of Civil Engineering, University of Illinois, Champaign-Urbana
   </small>
